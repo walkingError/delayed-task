@@ -1,4 +1,4 @@
-package com.jito.delayedtask;
+package com.jito.delayedtask.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

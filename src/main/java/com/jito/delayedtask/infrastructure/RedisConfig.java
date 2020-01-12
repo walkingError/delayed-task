@@ -1,4 +1,4 @@
-package com.jito.delayedtask;
+package com.jito.delayedtask.infrastructure;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.autoconfigure.data.redis.RedisProperties;
